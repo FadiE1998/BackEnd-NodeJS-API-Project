@@ -1,4 +1,4 @@
-# BackEnd-NodeJS-API-Project
+# Backend CRUD APP
 
 Hello there! This is Backend CRUD application. I used Node.js, Express.js, MongoDB, and Postman.
 
